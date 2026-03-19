@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-I am a self taught developer that wrote his first program at the age of 10.
-My first learned programming languages were Pascal and Assembler. Later I learned C++, Java, little bit of C# 
-and now I mostly use JavaScript/TypeScript and Rust <3. I love reading others code, downloading code samples and
-libraries and trying them out, thinking of what I can build with them.
+I am a self-taught developer who wrote his first program at the age of 10. My first programming languages were Pascal and Assembly. Later, I learned C++, Java, and a bit of C#. Currently, I primarily work with JavaScript/TypeScript and Rust <3.
+
+I enjoy reading other people’s code, exploring libraries and code samples, and experimenting with them to discover what I can build.
 
 <!--
 **dmitryvm1/dmitryvm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
