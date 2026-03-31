@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I am a self-taught developer who wrote his first program at the age of 10. My first programming languages were Pascal and Assembly. Later, I learned C++, Java, and a bit of C#. I have experience working with wide variety of tools and technologies and I continue learning.
+I’m a self-taught software engineer who started programming at age 10, beginning with Pascal and Assembly, and later expanding into C++, Java, and C#.
 
-I love solving problems with the help of computers.
+Today, I focus primarily on JavaScript/TypeScript and Rust, building backend services, developer tools, and web applications. I enjoy working on complex systems, reverse engineering, and performance-critical code.
+
+I’m driven by solving non-trivial problems with software and continuously improving my understanding of how systems work under the hood.
 
 <!--
 **dmitryvm1/dmitryvm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
