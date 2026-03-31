@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a self-taught developer who wrote his first program at the age of 10. My first programming languages were Pascal and Assembly. Later, I learned C++, Java, and a bit of C#. Currently, I primarily work with JavaScript/TypeScript, React and Rust <3.
+I am a self-taught developer who wrote his first program at the age of 10. My first programming languages were Pascal and Assembly. Later, I learned C++, Java, and a bit of C#. I have experience working with wide variety of tools and technologies and I continue learning.
 
 I love solving problems with the help of computers.
 
